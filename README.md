@@ -1,4 +1,4 @@
-# About Me:
+# 👋 About Me:
 
 Je suis Pascal Cañadas, Développeur Web
 
