@@ -1,6 +1,6 @@
 # About Me:
 
-Je suis Pascal Canadas, Développeur Web
+Je suis Pascal Cañadas, Développeur Web
 
 
 ## Social
